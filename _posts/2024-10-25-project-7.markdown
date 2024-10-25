@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-10-24
+img: m1.png
+alt: image-alt
+project-date: November 2022
+client: Start Bootstrap
+category: Web Development
+description: Development of a HW Board with its FW in C for the wireless communication of a driffting buoy that collects sea data.
+---
