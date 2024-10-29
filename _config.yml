@@ -1,11 +1,11 @@
 # Site settings
-title: MSc. Carlos Reyes
-email: gromprojekt@gmail.com
-url: https://github.com/jreyesa0901/carlosreyes-freelance
-description: "Freelancer Embedded SW Engineer and IT part-time consultor. Berlin / Puebla"
-keywords: "embedded systems, puebla, iniciativa, emprendimiento, paginas web, consultoria"
-skills: "SW Developer, HW Developer, Embedded Systems, DevOps, Automatic Testing"
-meta_author: Reyes Carlos
+title: Freelancer
+email: your-email@domain.com
+url: https://github.com/jeromelachaud/freelancer-theme
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+keywords: "your keywords, separated by commas"
+skills: "Web Developer - Graphic Artist - User Experience Designer"
+meta_author: LastName FirstName
 
 # Google webmaster tools
 google_verify:
@@ -33,27 +33,27 @@ color:
 # Footer settings
 footer:
   copyright: Dr. Henry Jekyll
-  location: Berlin / Puebla
+  location: Location
   social: Around the Web
-  credits: Credits to jeromelachaud for template
+  credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: 
+    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
   - title: stack-overflow
-    url: 
+    url: http://stackoverflow.com/questions/tagged/jekyll
   - title: bitbucket
-    url: 
+    url: http://bitbucket.org/jekyll
   - title: github
-    url: http://github.com/jreyesa
+    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Koepenick
-  - line: 12555, Berlin
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
